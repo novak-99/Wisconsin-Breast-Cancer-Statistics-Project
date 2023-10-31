@@ -1,6 +1,6 @@
 # Wisconsin Breast Cancer Statistics Project 
 
-The following is the project I presented in my AP Statistics class which performed a Wald hypothesis on the Wisconsin Breast Cancer dataset. 
+The following is the project I presented in my AP Statistics class in which I performed a Wald hypothesis on the Wisconsin Breast Cancer dataset. 
 
 ## Steps of Analysis 
 
