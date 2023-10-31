@@ -2,7 +2,8 @@
 
 The following is the project I presented in my AP Statistics class in which I performed a Wald hypothesis on the Wisconsin Breast Cancer dataset. 
 
-## Steps of Analysis 
+## Steps of Analysis
+
 
 1. Exploratory Data Analysis 
 2. Confirmed assumptions and conditions
@@ -16,4 +17,4 @@ Sufficient evidence to suggest c(beta) provides a statistically significant asso
 
 ## Download 
 
-The full presentation can be downloaded here. 
+The full presentation can be downloaded [here.](https://github.com/novak-99/Wisconsin-Breast-Cancer-Statistics-Project/files/13211516/Logistic.Regression.with.the.Wald.Test.-.Statistics.Project.pptx). 
