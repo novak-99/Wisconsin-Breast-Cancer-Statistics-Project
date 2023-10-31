@@ -17,4 +17,4 @@ Sufficient evidence to suggest c(beta) provides a statistically significant asso
 
 ## Download 
 
-The full presentation can be downloaded [here.](https://github.com/novak-99/Wisconsin-Breast-Cancer-Statistics-Project/files/13211516/Logistic.Regression.with.the.Wald.Test.-.Statistics.Project.pptx). 
+The full presentation can be downloaded [here.](https://github.com/novak-99/Wisconsin-Breast-Cancer-Statistics-Project/files/13211516/Logistic.Regression.with.the.Wald.Test.-.Statistics.Project.pptx)
